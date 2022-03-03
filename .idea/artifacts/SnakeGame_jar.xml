@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="SnakeGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnakeGame_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SnakeGame.jar">
+        <element id="module-output" name="SnakeGame" />
+      </element>
+      <element id="directory" name="libs">
+        <element id="library" level="project" name="JColor-5.2.0" />
+        <element id="library" level="project" name="jline-3.21.0" />
+        <element id="library" level="project" name="jnativehook-2.2.1" />
+        <element id="library" level="project" name="jna-5.10.0" />
+        <element id="library" level="project" name="jna-platform-5.10.0" />
+      </element>
+    </root>
+  </artifact>
+</component>

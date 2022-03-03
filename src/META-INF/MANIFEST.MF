@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: libs/JColor-5.2.0.jar libs/jna-5.10.0.jar libs/jline-3.21.0.jar libs/jna-platfor
+ m-5.10.0.jar libs/jnativehook-2.2.1.jar
+
